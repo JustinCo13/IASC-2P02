@@ -4,7 +4,7 @@
 
 My bio goes here
 
-![](images/dog.jpg)
+![](Images/dog.jpg)
 
 ## Blog Post
 
