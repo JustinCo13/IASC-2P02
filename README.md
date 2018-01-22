@@ -1,10 +1,10 @@
-# IASC 2P02 | Justin Co
+#### IASC 2P02 | Justin Co
 
 ## About me
 
 My bio goes here
 
-![DOG](Images/dog.jpg)
+![](Images/dog.jpg)
 
 ## Blog Post
 
