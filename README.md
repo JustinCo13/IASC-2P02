@@ -7,8 +7,8 @@ My name is Justin Co, I am 19 years old and I am currently second year in the IA
 ![](Images/dog.jpg)
 
 ## Blog Post
-
-First sentence of blog post goes here... [continue reading](blog)
+Johanna Drucker makes some strong arguements on Digital Humanities approach to Graphical Display.
+I have my own opinions on her arguements as well and this is my response [continue reading](blog)
 
 > HELLO WORLD
 > - JUSTIN CO
