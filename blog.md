@@ -26,6 +26,6 @@ UCLA. Retrieve from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.h
 Janicke. SJ, Franzin. GF, Cheema. M.F, Scheuermann. GS. (2017). Image and Signal Processing Group, 
 Department of Computer Science, Leipzig University, Germany. Retrieved from https://journals-scholarsportal-info.proxy.library.brocku.ca/pdf/01677055/v36i0006/226_vtaidh.xml
 
-Moretti, FM. (2003). GRAPHS, MAPS, TREES. Retrieved from 
+Moretti, FM. (2003). GRAPHS, MAPS, TREES. Retrieved from
 https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
 
