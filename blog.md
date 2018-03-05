@@ -16,3 +16,16 @@ There is also a question that I have regarding the debate between close reading 
 
 
 When you discuss capta is “not an expression of idiosyncracy, emotion, or individual quirks, but a systematic expression” (Drucker, Johanna) and that it all depends on the persons ‘interpretation’ does that mean that the data that we take, we can believe that it is right, while others while interpret it as wrong? This point can be argued in many different ways, the first argument you can make is that the data that we have, we can interpret the data as either right or wrong. While the second argument is not everyone can interpret the same data identically. If I were to agree with one of those arguments, I would have to choose the first argument. In todays society everything is controlled by law, if you go against the rules of society, then you would be seen as in the wrong. But to argue that, you as a person are entitled to have your opinion of what is essentially right or wrong. If someone interprets the information as wrong, there will always be someone else to counter your opinion and describe what their perspective is.
+
+
+Refereces
+
+Drucker, JD. (2011). Humanities Approach to Graphical Display. Department of information studies, 
+UCLA. Retrieve from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+
+Janicke. SJ, Franzin. GF, Cheema. M.F, Scheuermann. GS. (2017). Image and Signal Processing Group, 
+Department of Computer Science, Leipzig University, Germany. Retrieved from https://journals-scholarsportal-info.proxy.library.brocku.ca/pdf/01677055/v36i0006/226_vtaidh.xml
+
+Moretti, FM. (2003). GRAPHS, MAPS, TREES. Retrieved from 
+https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
+
