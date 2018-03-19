@@ -12,3 +12,6 @@ I have my own opinions on her arguements as well and this is my response...[cont
 
 > HELLO WORLD
 > - JUSTIN CO
+
+## Solo Presentation
+[click here](https://justinco13.github.io/IASC-2P02/reveal/index.html)
