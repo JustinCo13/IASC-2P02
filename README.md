@@ -19,7 +19,7 @@ The first commit I had done was this one [here](https://github.com/JustinCo13/IA
 
 For this project we were split into teams to discuss a tool that is used in the humanities. The tool that me and my team chose was called “Humanities commons”. Humanities commons is an open-access open forum where anyone from the humanities, whether it be a student, professor or a scholar. It is open to everyone and is also non-profit. This makes it convenient for many students who are really interested in the humanities field. It allows them to connect with scholars and professors and learn a lot more. I can see this being used as a primary source/reference for assignments.
 
-Hre is my 250-word collaboration statement. I approach the collaboration in x ways, which is reflected in y work [Here](). i also approach collaboration in a ways, which is reflected [here](). I also contributed x assets to my team, seen below.
+Hre is my 250-word collaboration statement. I approach the collaboration in x ways, which is reflected in y work [Here](Images/HC.jpg). i also approach collaboration in a ways, which is reflected [here](). I also contributed x assets to my team, seen below.
 
 
 ![]()
