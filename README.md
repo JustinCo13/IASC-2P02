@@ -30,4 +30,4 @@ I have my own opinions on her arguements as well and this is my response...[cont
 > - JUSTIN CO
 
 ## Research presentation
-[click here](https://justinco13.github.io/IASC-2P02/reveal/index.html)
+[Dr Julius Neubronners Pigeon Photography](https://justinco13.github.io/IASC-2P02/reveal/index.html)
