@@ -19,10 +19,7 @@ The first commit I had done was this one [here](https://github.com/JustinCo13/IA
 
 For this project we were split into teams to discuss a tool that is used in the humanities. The tool that me and my team chose was called “Humanities commons”. Humanities commons is an open-access open forum where anyone from the humanities, whether it be a student, professor or a scholar. It is open to everyone and is also non-profit. This makes it convenient for many students who are really interested in the humanities field. It allows them to connect with scholars and professors and learn a lot more. I can see this being used as a primary source/reference for assignments.
 
-Hre is my 250-word collaboration statement. I approach the collaboration in x ways, which is reflected in y work [Here](Images/HC.jpg). i also approach collaboration in a ways, which is reflected [here](). I also contributed x assets to my team, seen below.
-
-
-![]()
+I had approached this assignment with the topic called MLA commons, but since the restrictions we had when trying to use the website, we had to change the topic from MLA commons to Humanities commons. I had to change the README.md in our team home page from MLA commons to Humanities commons shown [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/cfecce9b1e613843f2a965152698393b139cd605). After changing that, I went to do my research on what the Humanities commons was [here](https://i.imgur.com/F4XelsL.jpg). I went on the home page of the website to see what the website was about and what more I can learn from it. It turns out that this was a large group consisting of many other commons organizations and we happened to do research on the humanities commons. With many other branches I searched up if they were getting funded from somewhere shown [here](https://i.imgur.com/Rf9bfG4.jpg). It showed me how they were able to get funding to create many other organizations. After the my part was finished I closed my personal issue [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/4f6811aa8911d7b55480bcadac22e0b948456c02).
 
 
 ## Academic Blog
