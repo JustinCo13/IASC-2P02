@@ -7,7 +7,7 @@ My name is Justin Co, I am 19 years old and I’m on my second year in the progr
 ![](Images/dog.jpg)
 
 ## Featured project : [Dr. Neubronner's Pigeon Camera] 
-![](images/featured.jpg)
+![](Images/featured.jpg)
 
 This project is my presentation that I have done about Dr Julius Neubronner and how he created pigeon photography. The presentation was created as a pecha kucha format which is originally 20 slides with 20 seconds each, but for this assignment it was reduced to 15 slides with 20 seconds each. The main purpose of this project was to do some research on any forgotten piece of media. For this project I had chosen Dr Julius Neubronners pigeon photography which was known to be the first form of aerial photography and is what inspired Google to map out the earth using satellite imagery. He had first used these to track where his pigeons would go, then it turned into something so useful that it was used in both world wars. But as time would go on and technology was becoming more innovative, his creation quickly faded, and he abandoned his experimentation. Although it was forgotten, it was the first creation of many to implement aerial photography. This would include creations such as Google maps/earth, crittercams, and drones. They were all inventions that took the simple forgotten idea of Neubronners pigeon photography, and put it into a new form, which is referred to as zombie media. 
 
