@@ -24,10 +24,8 @@ I had approached this assignment with the topic called MLA commons, but since th
 
 ## Academic Blog
 Johanna Drucker makes some strong arguements on Digital Humanities approach to Graphical Display.
-I have my own opinions on her arguements as well and this is my response...[continue reading](https://justinco13.github.io/IASC-2P02/blog)
+I have my own opinions on her arguements as well and this is my response...[Response to Johanna Drucker](https://justinco13.github.io/IASC-2P02/blog)
 
-> HELLO WORLD
-> - JUSTIN CO
 
 ## Research presentation
 [Dr Julius Neubronners Pigeon Photography](https://justinco13.github.io/IASC-2P02/reveal/index.html)
